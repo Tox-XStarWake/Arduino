@@ -1,0 +1,9 @@
+Make your device IoT–ready
+To use this board you will need a Device ID and a Secret Key, please copy and save them or download the PDF.
+Also, keep in mind that this device authentication has a lower security level compared to other Arduino devices.
+Device ID
+c32188d7-27bb-4dcf-a400-7e3a52960f85
+Secret Key
+8BIXTK8RXY6JKQDBRA2F
+
+
